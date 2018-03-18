@@ -10,6 +10,6 @@
 以后还是这题的话学弟学妹可以用用。<br/>
 
 
-! This code refers to the code attached to this post.
+! This code refers to the code attached to this post:http://tieba.baidu.com/p/4236336543<br/>
 This is a simple maze game that uses stacks and queues to find paths and shortest paths. 
 This program was developed using Qt.
