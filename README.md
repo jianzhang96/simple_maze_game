@@ -1,3 +1,4 @@
+#利用栈解决迷宫问题<br/>
 # SimpleMazeGame
 ！这份代码完全参照了这篇帖子里面附的代码http://tieba.baidu.com/p/4236336543
 
