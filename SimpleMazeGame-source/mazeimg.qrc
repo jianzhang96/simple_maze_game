@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/maze">
+        <file>img/liangcang.jpg</file>
+        <file>img/mouse.jpg</file>
+        <file>img/mouse1.jpg</file>
+    </qresource>
+</RCC>
