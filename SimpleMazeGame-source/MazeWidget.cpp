@@ -1,4 +1,16 @@
-﻿#include "MazeWidget.h"
+/**
+ *Copyright:
+ *This code is free software; you can redistribute it and/or modify
+ *it under the terms of the GPL-3.0
+ *
+ * @author zhangjian
+ * @date 2018.04
+ *
+ */
+
+///////////////////////////////////////////////////////////////////////
+
+#include "MazeWidget.h"
 
 MazeWidget::MazeWidget(QWidget *parent)
     : QWidget(parent)
