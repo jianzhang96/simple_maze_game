@@ -1,4 +1,16 @@
-﻿#ifndef MAZEWIDGET_H
+/**
+ *Copyright:
+ *This code is free software; you can redistribute it and/or modify
+ *it under the terms of the GPL-3.0
+ *
+ * @author zhangjian
+ * @date 2018.04
+ *
+ */
+
+///////////////////////////////////////////////////////////////////////
+
+#ifndef MAZEWIDGET_H
 #define MAZEWIDGET_H
 #include <QWidget>
 #include <iostream>
