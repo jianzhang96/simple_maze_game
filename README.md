@@ -13,5 +13,3 @@
 * ! This code refers to the code attached to this post:http://tieba.baidu.com/p/4236336543<br/>
 This is a simple maze game that uses stacks and queues to find paths and shortest paths. <br/>
 This program was developed using Qt.<br/>
-
-⊙ω⊙-------The end---------⊙ω⊙
